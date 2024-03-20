@@ -1,0 +1,1 @@
+For lab 1, I experimented with a different way of colour coding my text boxes. I have now changed it to show the color on the left side of the box.
